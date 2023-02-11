@@ -15,7 +15,7 @@
 
 あらかじめ以下のリンクから ZIP ファイルをダウンロードしてお好きなフォルダに展開してください。
 
-[empty-link-fixer-0.1.1.zip](https://github.com/7oh2020/empty-link-fixer/releases/download/v0.1.0/empty-link-fixer-0.1.1.zip)
+[empty-link-fixer-0.1.2.zip](https://github.com/7oh2020/empty-link-fixer/releases/download/v0.1.2/empty-link-fixer-0.1.2.zip)
 
 1. Chrome の場合はアドレスバーに「chrome://extensions」と入力して移動します
 2. すると拡張機能ページが表示されます
